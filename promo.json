@@ -1,0 +1,28 @@
+[
+    {
+      "layout": "STATIC_TEXT",
+      "collectionScreen": {
+        "imageUrl": "https://static.wixstatic.com/media/463c6d_466af40929c94fd191782884f264bdfa~mv2.png/v1/fill/w_127,h_71,al_c,q_85,usm_0.66_1.00_0.01/NFT_Craze_Logo-04.webp",
+        "title": "DoorsToBeyond",
+        "subtitle": {
+          "text": "Placeholder 1",
+          "textColour": "#FF003D"
+        }
+      },
+      "galleryScreen": {
+        "header": {
+          "text": "Placeholder 2",
+          "textColour": "#FF003D"
+        },
+        "imageUrls": [
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg"
+        ],
+        "button": {
+          "text": "Find More Details",
+          "url": "https://twitter.com/nft_craze",
+          "enabled": true
+        }
+      }
+    }
+  ]
