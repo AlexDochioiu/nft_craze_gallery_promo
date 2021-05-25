@@ -28,5 +28,36 @@
           "enabled": true
         }
       }
+    },
+    {
+      "layout": "COUNTDOWN",
+      "countdownEndDate": "2021-06-06T18:29:11+00:00"",
+      "collectionScreen": {
+        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/logo.png",
+        "title": "NFT-Craze - Doors To Beyond V2",
+        "subtitle": {
+          "text": "Coming Soon",
+          "textColour": "#96889E"
+        }
+      },
+      "galleryScreen": {
+        "header": {
+          "text": "Coming Soon",
+          "textColour": "#96889E"
+        },
+        "imageUrls": [
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/1.png",
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/2.png",
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/3.png",
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/4.png",
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/5.png",
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/6.png"
+        ],
+        "button": {
+          "text": "Find More Details",
+          "url": "https://www.nft-craze.art/",
+          "enabled": true
+        }
+      }
     }
   ]
