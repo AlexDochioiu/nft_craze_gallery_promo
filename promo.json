@@ -36,14 +36,14 @@
         "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/logo.png",
         "title": "NFT-Craze - Doors To Beyond V2",
         "subtitle": {
-          "text": "Coming Soon",
-          "textColour": "#96889E"
+          "text": "Live Now",
+          "textColour": "#FF003D"
         }
       },
       "galleryScreen": {
         "header": {
           "text": "Sale Ongoing",
-          "textColour": "#0FF003D"
+          "textColour": "#FF003D"
         },
         "imageUrls": [
           "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/1.png",
