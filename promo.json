@@ -42,8 +42,8 @@
       },
       "galleryScreen": {
         "header": {
-          "text": "Coming Soon",
-          "textColour": "#96889E"
+          "text": "Sale Ongoing",
+          "textColour": "#0FF003D"
         },
         "imageUrls": [
           "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/doors_to_beyond/1.png",
@@ -56,6 +56,11 @@
         "button": {
           "text": "Find More Details",
           "url": "https://www.nft-craze.art/",
+          "enabled": true
+        },
+        "buttonAfterCountdown": {
+          "text": "Live Now",
+          "url": "https://twitter.com/nft_craze",
           "enabled": true
         }
       }
