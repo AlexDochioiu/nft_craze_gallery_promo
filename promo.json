@@ -65,4 +65,43 @@
         }
       }
     }
+    ,
+    {
+      "layout": "COUNTDOWN",
+      "countdownEndDate": "2021-06-04T18:00:00+00:00",
+      "collectionScreen": {
+        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/glitch_creation.jpg",
+        "title": "GlitchCreation - LIFEINPRISM",
+        "subtitle": {
+          "text": "Live Now",
+          "textColour": "#FF003D"
+        }
+      },
+      "galleryScreen": {
+        "header": {
+          "text": "Live Now",
+          "textColour": "#FF003D"
+        },
+        "imageUrls": [
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/test/assets/glitch_creation/1.png",
+          "https://ipfs.blockfrost.dev/ipfs/QmY5BNUBYAfacDVdsfuAmnNVWfBVMqjBkFEiYKZjNa6bBn",
+          "https://ipfs.blockfrost.dev/ipfs/Qmf8szBcnbGJ4cUNqurZyZ61mGwiHahYWvaVhcDKczgQJ6",
+          "https://ipfs.blockfrost.dev/ipfs/QmQrVmGkpHdLMLjmNsXFD4NtTuzstY5PBh4RpwFXehmU13",
+          "https://ipfs.blockfrost.dev/ipfs/QmdWcUTaGUVenXsadCCEeKKa31Suf9QN8RzazG1ua2PE2r",
+          "https://ipfs.blockfrost.dev/ipfs/QmbrbqUNzvjSHTqHgaUfjDaFSrbPDbFkTfg7zE5H38WZWT",
+          "https://ipfs.blockfrost.dev/ipfs/QmYQpDTcbLU2LQiWM58EzU8xtJiyViA8gPUUg7QtqzuPE9",
+          "https://ipfs.blockfrost.dev/ipfs/QmbfGmsiovnW6RciTEN5ug6PvBLhBS388b9DagXeUjDvBV"
+        ],
+        "button": {
+          "text": "Go To Discord",
+          "url": "https://discord.gg/btVQ32NsUw",
+          "enabled": true
+        },
+        "buttonAfterCountdown": {
+          "text": "Buying Details",
+          "url": "https://discord.gg/btVQ32NsUw",
+          "enabled": true
+        }
+      }
+    }
   ]
