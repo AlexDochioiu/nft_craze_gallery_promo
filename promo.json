@@ -64,8 +64,7 @@
           "enabled": true
         }
       }
-    }
-    ,
+    },
     {
       "layout": "COUNTDOWN",
       "countdownEndDate": "2021-06-04T18:00:00+00:00",
@@ -83,23 +82,19 @@
           "textColour": "#FF003D"
         },
         "imageUrls": [
-          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/test/assets/glitch_creation/1.png",
-          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/test/assets/glitch_creation/2.gif",
-          "https://ipfs.blockfrost.dev/ipfs/Qmf8szBcnbGJ4cUNqurZyZ61mGwiHahYWvaVhcDKczgQJ6",
-          "https://ipfs.blockfrost.dev/ipfs/QmQrVmGkpHdLMLjmNsXFD4NtTuzstY5PBh4RpwFXehmU13",
-          "https://ipfs.blockfrost.dev/ipfs/QmdWcUTaGUVenXsadCCEeKKa31Suf9QN8RzazG1ua2PE2r",
-          "https://ipfs.blockfrost.dev/ipfs/QmbrbqUNzvjSHTqHgaUfjDaFSrbPDbFkTfg7zE5H38WZWT",
-          "https://ipfs.blockfrost.dev/ipfs/QmYQpDTcbLU2LQiWM58EzU8xtJiyViA8gPUUg7QtqzuPE9",
-          "https://ipfs.blockfrost.dev/ipfs/QmbfGmsiovnW6RciTEN5ug6PvBLhBS388b9DagXeUjDvBV"
+          "https://ipfs.blockfrost.dev/ipfs/QmWFPC6YRYzM3FEQc35V6Em9oym1g6naK3y9LB4kdP4FSF",
+          "https://ipfs.blockfrost.dev/ipfs/QmZUr8z31hf1jb4TXUKKPhN8SKReYh7fawaZnkqeTC5XRY",
+          "https://ipfs.blockfrost.dev/ipfs/QmQPupUWkijEvimPtn5kSn8CzVo76sNJqqAkxpwgk9udfV",
+          "https://ipfs.blockfrost.dev/ipfs/QmVH6LMkm2vGBjWpFckk3CsdPSdRbpmAkVaJ6bm5rLjTCX"
         ],
         "button": {
-          "text": "Go To Discord",
-          "url": "https://discord.gg/btVQ32NsUw",
+          "text": "Go To Twitter",
+          "url": "https://twitter.com/GlitchCreation",
           "enabled": true
         },
         "buttonAfterCountdown": {
           "text": "Buying Details",
-          "url": "https://discord.gg/btVQ32NsUw",
+          "url": "https://twitter.com/GlitchCreation",
           "enabled": true
         }
       }
