@@ -1,3 +1,36 @@
 [
-    
+  {
+    "layout": "COUNTDOWN",
+    "countdownEndDate": "2021-06-04T18:00:00+00:00",
+    "collectionScreen": {
+      "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/glitch_creation.jpg",
+      "title": "GlitchCreation - LIFEINPRISM",
+      "subtitle": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      }
+    },
+    "galleryScreen": {
+      "header": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      },
+      "imageUrls": [
+        "https://ipfs.blockfrost.dev/ipfs/QmdeabqUXy3kMysjPHG92Xp17JnCgggtBUqKFFCoXU5BuT",
+        "https://ipfs.blockfrost.dev/ipfs/QmVH6LMkm2vGBjWpFckk3CsdPSdRbpmAkVaJ6bm5rLjTCX",
+        "https://ipfs.blockfrost.dev/ipfs/QmdyN4cd7Lgv9sXRohWx5p1nc8WDFmpadtZe4g3Lc2GFTL",
+        "https://ipfs.blockfrost.dev/ipfs/QmZUr8z31hf1jb4TXUKKPhN8SKReYh7fawaZnkqeTC5XRY"
+      ],
+      "button": {
+        "text": "Go To Twitter",
+        "url": "https://twitter.com/GlitchCreation",
+        "enabled": true
+      },
+      "buttonAfterCountdown": {
+        "text": "Buying Details",
+        "url": "https://twitter.com/GlitchCreation",
+        "enabled": true
+      }
+    }
+  }   
 ]
