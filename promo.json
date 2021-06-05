@@ -1,36 +1,3 @@
 [
-    {
-      "layout": "COUNTDOWN",
-      "countdownEndDate": "2021-06-04T18:00:00+00:00",
-      "collectionScreen": {
-        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/joseph_miranda.png",
-        "title": "Joseph Miranda - WTP 003",
-        "subtitle": {
-          "text": "Live Now",
-          "textColour": "#FF003D"
-        }
-      },
-      "galleryScreen": {
-        "header": {
-          "text": "Live Now",
-          "textColour": "#FF003D"
-        },
-        "imageUrls": [
-          "https://ipfs.blockfrost.dev/ipfs/QmcsrhH439bdiTQ2rrMwkchHvNSsEuaYayYCfrojCyh4MW",
-          "https://ipfs.blockfrost.dev/ipfs/QmUF9JsouUGYgjEbUGJ9jHVmHs8RAr8bEp5zjjeB5te3pz",
-          "https://ipfs.blockfrost.dev/ipfs/Qmd8G5jRvMrJrJybjH3S9A7CcY1hTbSVMghg88B9eyrxS2",
-          "https://ipfs.blockfrost.dev/ipfs/QmbvgwrGjbRWDgZFUyNGjqAyeNUZXoakFRv2b1ivJLMHvH"
-        ],
-        "button": {
-          "text": "Go To Twitter",
-          "url": "https://twitter.com/theartofjoseph",
-          "enabled": true
-        },
-        "buttonAfterCountdown": {
-          "text": "Buying Details",
-          "url": "https://the-rokindo-collective.squarespace.com/we-the-people-003",
-          "enabled": true
-        }
-      }
-    }   
-  ]
+       
+]
