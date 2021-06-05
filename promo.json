@@ -1,3 +1,36 @@
 [
-   
-]
+    {
+      "layout": "COUNTDOWN",
+      "countdownEndDate": "2021-06-04T18:00:00+00:00",
+      "collectionScreen": {
+        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/joseph_miranda.png",
+        "title": "Joseph Miranda - WTP 003",
+        "subtitle": {
+          "text": "Live Now",
+          "textColour": "#FF003D"
+        }
+      },
+      "galleryScreen": {
+        "header": {
+          "text": "Live Now",
+          "textColour": "#FF003D"
+        },
+        "imageUrls": [
+          "https://ipfs.blockfrost.dev/ipfs/QmcVi8HLAuEXVjnSHPshghawibZTMfgmG8PJ52CVSKgtaZ",
+          "https://ipfs.blockfrost.dev/ipfs/QmW7hBzq7dVpTdmnWws1MDEiFuznmJQnAsAMgmhWGgSZgX",
+          "https://ipfs.blockfrost.dev/ipfs/QmZLQGUe6HMFhtP8M2NwkGSnDvbLM8iJBGizqEyEkHRze5",
+          "https://ipfs.blockfrost.dev/ipfs/QmRkcRFveyd5Sikb6qmngy6LDvVXwLxGsAMqSctaLrmQa4"
+        ],
+        "button": {
+          "text": "Go To Twitter",
+          "url": "https://twitter.com/theartofjoseph",
+          "enabled": true
+        },
+        "buttonAfterCountdown": {
+          "text": "Buying Details",
+          "url": "https://twitter.com/theartofjoseph",
+          "enabled": true
+        }
+      }
+    }   
+  ]
