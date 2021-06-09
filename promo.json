@@ -98,5 +98,36 @@
           "enabled": true
         }
       }
-    }
+    },
+    {
+      "layout": "COUNTDOWN",
+      "countdownEndDate": "2021-06-10T14:00:00+00:00",
+      "collectionScreen": {
+        "imageUrl": "https://ipfs.blockfrost.dev/ipfs/QmSaTixtGWbCq98hEViRiz7p6vBPMVEjyEvjXxaCtGwvNu",
+        "title": "AlennaArt - One Hundred ADA Bill",
+        "subtitle": {
+          "text": "Live Now",
+          "textColour": "#FF003D"
+        }
+      },
+      "galleryScreen": {
+        "header": {
+          "text": "Live Now",
+          "textColour": "#FF003D"
+        },
+        "imageUrls": [
+          "https://ipfs.blockfrost.dev/ipfs/Qmae355UBdJMiGsD3mJdXjpWvQBbtvCNAQW6XvMJYum2fv"
+        ],
+        "button": {
+          "text": "Go To Twitter",
+          "url": "https://twitter.com/NicolasCaridi/status/1402424819283632133",
+          "enabled": true
+        },
+        "buttonAfterCountdown": {
+          "text": "Buying Details",
+          "url": "https://twitter.com/NicolasCaridi",
+          "enabled": true
+        }
+      }
+    }  
   ]
