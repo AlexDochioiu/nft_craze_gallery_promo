@@ -101,7 +101,7 @@
     },
     {
       "layout": "COUNTDOWN",
-      "countdownEndDate": "2021-06-10T14:00:00+00:00",
+      "countdownEndDate": "2021-06-11T14:00:00+00:00",
       "collectionScreen": {
         "imageUrl": "https://ipfs.blockfrost.dev/ipfs/QmSaTixtGWbCq98hEViRiz7p6vBPMVEjyEvjXxaCtGwvNu",
         "title": "AlennaArt - One Hundred ADA Bill",
@@ -116,6 +116,8 @@
           "textColour": "#FF003D"
         },
         "imageUrls": [
+          "https://text2image.com/user_images/202106/text2image_A3050637_20210609_141458.png",
+          "https://text2image.com/user_images/202106/text2image_D5256814_20210609_141754.png",
           "https://ipfs.blockfrost.dev/ipfs/Qmae355UBdJMiGsD3mJdXjpWvQBbtvCNAQW6XvMJYum2fv"
         ],
         "button": {
