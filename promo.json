@@ -1,6 +1,40 @@
 [
   {
     "layout": "COUNTDOWN",
+    "countdownEndDate": "2021-06-12T15:00:00+00:00",
+    "collectionScreen": {
+      "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
+      "title": "Chadi Nassar × Julian Lyle Collaboration",
+      "subtitle": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      }
+    },
+    "galleryScreen": {
+      "header": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      },
+      "imageUrls": [
+        "https://ipfs.blockfrost.dev/ipfs/QmY2sSBaxCSHan5q6t2nxRTdgpEB26CpZ3AUpC957Ggufe",
+        "https://ipfs.blockfrost.dev/ipfs/QmTHYoMD65jTMBKGauGdTd5uKpiMweSShTGgfSFMUyQaSy",
+        "https://ipfs.blockfrost.dev/ipfs/QmUNEawxkUmT6MW5dSFJC4GtCXuQ9MTGZGK21X2FrZ9x8q",
+        "https://ipfs.blockfrost.dev/ipfs/QmZUGJRLC9otvCJdmZRQJjTh5p33scSgKY1zgsH3ou6WfN"
+      ],
+      "button": {
+        "text": "Details On Discord",
+        "url": "https://discord.gg/4ZD9UuUk",
+        "enabled": true
+      },
+      "buttonAfterCountdown": {
+        "text": "Buying Details On Discord",
+        "url": "https://discord.gg/4ZD9UuUk/",
+        "enabled": true
+      }
+    }
+  }, 
+  {
+    "layout": "COUNTDOWN",
     "countdownEndDate": "2021-06-11T14:00:00+00:00",
     "collectionScreen": {
       "imageUrl": "https://ipfs.blockfrost.dev/ipfs/QmSaTixtGWbCq98hEViRiz7p6vBPMVEjyEvjXxaCtGwvNu",
