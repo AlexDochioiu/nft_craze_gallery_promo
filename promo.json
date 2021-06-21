@@ -1,45 +1,9 @@
 [
   {
     "layout": "COUNTDOWN",
-    "countdownEndDate": "2021-06-18T17:00:00+00:00",
+    "countdownEndDate": "2021-06-24T18:00:00+00:00",
     "collectionScreen": {
-      "imageUrl": "https://cutt.ly/LnKmKw3",
-      "title": "Julian Lyle - Levitate",
-      "subtitle": {
-        "text": "Live Now",
-        "textColour": "#FF003D"
-      }
-    },
-    "galleryScreen": {
-      "header": {
-        "text": "Live Now",
-        "textColour": "#FF003D"
-      },
-      "imageUrls": [
-        "https://cutt.ly/qnKmDMt",
-        "https://ipfs.io/ipfs/QmdBYZ2wcQfgT6fiQD4NBfhDWjjQfZunhC9JDBcX4H4qbK",
-        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/lyle/2.jpg",
-        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/lyle/3.jpg",
-        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/lyle/4.jpg",
-        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/lyle/5.jpg"
-      ],
-      "button": {
-        "text": "Details On Discord",
-        "url": "https://cutt.ly/OnKmYsO",
-        "enabled": true
-      },
-      "buttonAfterCountdown": {
-        "text": "Buying Details On Discord",
-        "url": "https://cutt.ly/OnKmYsO",
-        "enabled": true
-      }
-    }
-  },
-  {
-    "layout": "COUNTDOWN",
-    "countdownEndDate": "2021-06-17T18:00:00+00:00",
-    "collectionScreen": {
-      "imageUrl": "https://cutt.ly/RnFkMop",
+      "imageUrl": "https://cutt.ly/En0KsNT",
       "title": "Cyberbots",
       "subtitle": {
         "text": "Live Now",
@@ -52,19 +16,19 @@
         "textColour": "#FF003D"
       },
       "imageUrls": [
-        "https://cutt.ly/unFk1G7",
+        "https://cutt.ly/4n0Ktuv",
         "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/cyberbots/2.png",
         "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/cyberbots/3.png",
         "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/cyberbots/4.png"
       ],
       "button": {
         "text": "Details On Discord",
-        "url": "https://cutt.ly/nnFk2Oq",
+        "url": "https://cutt.ly/qn0Ki2h",
         "enabled": true
       },
       "buttonAfterCountdown": {
         "text": "Buying Details On Discord",
-        "url": "https://cutt.ly/nnFk2Oq",
+        "url": "https://cutt.ly/qn0Ki2h",
         "enabled": true
       }
     }
