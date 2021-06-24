@@ -1,6 +1,40 @@
 [
   {
     "layout": "COUNTDOWN",
+    "countdownEndDate": "2021-06-25T16:00:00+00:00",
+    "collectionScreen": {
+      "imageUrl": "https://cutt.ly/gn5hL9k",
+      "title": "Charles Gitnick x GlitchCreation Pistols4Peace",
+      "subtitle": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      }
+    },
+    "galleryScreen": {
+      "header": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      },
+      "imageUrls": [
+        "https://cutt.ly/Hn5gAEb",
+        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/gitnick_glitch_2/2.jpeg",
+        "https://ipfs.blockfrost.dev/ipfs/QmfYnwupkcKs4XG4mrsibzdfiiY5NpiEwAbvmi1W7EAc2K",
+        "https://ipfs.blockfrost.dev/ipfs/QmaKguoFoetkhGbsA8wFQscfkNDsgGYfVEb7rMTWGkyxpK"
+      ],
+      "button": {
+        "text": "Details On Discord",
+        "url": "https://cutt.ly/jn5gV28",
+        "enabled": true
+      },
+      "buttonAfterCountdown": {
+        "text": "Buying Details On Discord",
+        "url": "https://cutt.ly/jn5gV28",
+        "enabled": true
+      }
+    }
+  },
+  {
+    "layout": "COUNTDOWN",
     "countdownEndDate": "2021-06-24T18:00:00+00:00",
     "collectionScreen": {
       "imageUrl": "https://cutt.ly/En0KsNT",
