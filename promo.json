@@ -32,39 +32,5 @@
         "enabled": true
       }
     }
-  },
-  {
-    "layout": "COUNTDOWN",
-    "countdownEndDate": "2021-06-24T18:00:00+00:00",
-    "collectionScreen": {
-      "imageUrl": "https://cutt.ly/En0KsNT",
-      "title": "Cyberbots",
-      "subtitle": {
-        "text": "Live Now",
-        "textColour": "#FF003D"
-      }
-    },
-    "galleryScreen": {
-      "header": {
-        "text": "Live Now",
-        "textColour": "#FF003D"
-      },
-      "imageUrls": [
-        "https://cutt.ly/Gn0KIbz",
-        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/cyberbots/2.png",
-        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/cyberbots/3.png",
-        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/cyberbots/4.png"
-      ],
-      "button": {
-        "text": "Details On Discord",
-        "url": "https://cutt.ly/qn0Ki2h",
-        "enabled": true
-      },
-      "buttonAfterCountdown": {
-        "text": "Buying Details On Discord",
-        "url": "https://cutt.ly/qn0Ki2h",
-        "enabled": true
-      }
-    }
   }
 ]
