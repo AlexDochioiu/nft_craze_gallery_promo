@@ -1,6 +1,40 @@
 [
   {
     "layout": "COUNTDOWN",
+    "countdownEndDate": "2021-06-27T17:00:00+00:00",
+    "collectionScreen": {
+      "imageUrl": "https://cutt.ly/smeeNfU",
+      "title": "Joseph Miranda - WTP 004",
+      "subtitle": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      }
+    },
+    "galleryScreen": {
+      "header": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      },
+      "imageUrls": [
+        "https://cutt.ly/emee2E4",
+        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/wtp004/2.png",
+        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/wtp004/3.png",
+        "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_promo/main/assets/wtp004/4.png"
+      ],
+      "button": {
+        "text": "Details On Discord",
+        "url": "https://cutt.ly/Ymee4Pj",
+        "enabled": true
+      },
+      "buttonAfterCountdown": {
+        "text": "Buying Details On Discord",
+        "url": "https://cutt.ly/Ymee4Pj",
+        "enabled": true
+      }
+    }
+  },
+  {
+    "layout": "COUNTDOWN",
     "countdownEndDate": "2021-06-25T16:00:00+00:00",
     "collectionScreen": {
       "imageUrl": "https://cutt.ly/gn5hL9k",
