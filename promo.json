@@ -1,3 +1,36 @@
 [
-
+    {
+        "layout": "COUNTDOWN",
+        "countdownEndDate": "2021-07-18T16:00:00+00:00",
+        "collectionScreen": {
+          "imageUrl": "https://cutt.ly/smeeNfU",
+          "title": "Joseph Miranda - WTP 005",
+          "subtitle": {
+            "text": "Live Now",
+            "textColour": "#FF003D"
+          }
+        },
+        "galleryScreen": {
+          "header": {
+            "text": "Live Now",
+            "textColour": "#FF003D"
+          },
+          "imageUrls": [
+            "https://ipfs.blockfrost.dev/ipfs/QmXV4L5GyqB8xQb13ikLvyjvx6AJ6nS1zviDXScSTs1eKG",
+            "https://ipfs.blockfrost.dev/ipfs/QmS2noLsW8PvEASjbUVxv79C3wphS7WKBMvxejZDeXshLu",
+            "https://ipfs.blockfrost.dev/ipfs/Qmc3F7JPfoC4AfrCuDbgpRjNkctbDHpjXJHghgPaiFU855",
+            "https://ipfs.blockfrost.dev/ipfs/QmcQ1vncPGxgF9ZgzZXsr38SZivzJZAAgvJoHPCNY9iWWn"
+          ],
+          "button": {
+            "text": "Details On Discord",
+            "url": "https://discord.gg/cc3GQbNa",
+            "enabled": true
+          },
+          "buttonAfterCountdown": {
+            "text": "Buying Details On Discord",
+            "url": "https://discord.gg/cc3GQbNa",
+            "enabled": true
+          }
+        }
+      }
 ]
