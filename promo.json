@@ -1,37 +1,3 @@
 [
-    {
-        "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-07-18T16:00:00+00:00",
-        "collectionScreen": {
-          "imageUrl": "https://cutt.ly/smeeNfU",
-          "title": "Joseph Miranda - WTP 005",
-          "subtitle": {
-            "text": "Last Chance - Sale closing soon",
-            "textColour": "#FF003D"
-          }
-        },
-        "galleryScreen": {
-          "header": {
-            "text": "Live Now - Closing Soon",
-            "textColour": "#FF003D"
-          },
-          "imageUrls": [
-            "https://pbs.twimg.com/media/E6gjHD_WQAQQbVw?format=jpg&name=small",
-            "https://cutt.ly/mmVa6NJ",
-            "https://i.ibb.co/k38RNS3/2.png",
-            "https://i.ibb.co/tqs7Xr0/3.png",
-            "https://i.ibb.co/CmYqWNq/4.png"
-          ],
-          "button": {
-            "text": "Details On Discord",
-            "url": "https://discord.gg/cc3GQbNa",
-            "enabled": true
-          },
-          "buttonAfterCountdown": {
-            "text": "Buying Details On Discord",
-            "url": "https://discord.gg/cc3GQbNa",
-            "enabled": true
-          }
-        }
-      }
+    
 ]
