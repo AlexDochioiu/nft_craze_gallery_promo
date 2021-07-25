@@ -1,3 +1,34 @@
 [
-    
+  {
+    "layout": "COUNTDOWN",
+    "countdownEndDate": "2021-07-18T16:00:00+00:00",
+    "collectionScreen": {
+      "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/sacred.png",
+      "title": "Backwards Geometry X Sacred",
+      "subtitle": {
+        "text": "Live Now - Almost sold out",
+        "textColour": "#FF003D"
+      }
+    },
+    "galleryScreen": {
+      "header": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      },
+      "imageUrls": [
+        "https://ipfs.blockfrost.dev/ipfs/QmY2Xdj1bQ4u1zhXgcTpascVkPBAjLTpB3CYCUbW5uzWDV",
+        "https://ipfs.blockfrost.dev/ipfs/QmRGNPYHdNjeDEyihix7wqsuN31foWzxnGCeqbV4APnDvC"
+      ],
+      "button": {
+        "text": "Details On Twitter",
+        "url": "https://twitter.com/bckwrdsgeometry/status/1419326752153903104",
+        "enabled": true
+      },
+      "buttonAfterCountdown": {
+        "text": "Buying Details On Twitter",
+        "url": "https://twitter.com/bckwrdsgeometry/status/1419326752153903104",
+        "enabled": true
+      }
+    }
+  }
 ]
