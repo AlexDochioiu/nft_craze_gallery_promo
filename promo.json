@@ -1,2 +1,33 @@
 [
+  {
+    "layout": "COUNTDOWN",
+    "countdownEndDate": "2021-08-01T16:00:00+00:00",
+    "collectionScreen": {
+      "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/gitnick.png",
+      "title": "charlesgitnick",
+      "subtitle": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      }
+    },
+    "galleryScreen": {
+      "header": {
+        "text": "Live Now",
+        "textColour": "#FF003D"
+      },
+      "imageUrls": [
+        "https://ipfs.blockfrost.dev/ipfs/QmRmx4cQ2cZzjmq6jbhq45LmtJKGiQF47hVjYV3dyuhubo"
+      ],
+      "button": {
+        "text": "Details On Discord",
+        "url": "https://discord.gg/qMuwS2fH",
+        "enabled": true
+      },
+      "buttonAfterCountdown": {
+        "text": "Buying Details On Discord",
+        "url": "https://discord.gg/qMuwS2fH",
+        "enabled": true
+      }
+    }
+  }
 ]
