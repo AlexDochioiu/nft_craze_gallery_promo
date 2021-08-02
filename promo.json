@@ -1,10 +1,10 @@
 [
   {
     "layout": "COUNTDOWN",
-    "countdownEndDate": "2021-08-01T16:00:00+00:00",
+    "countdownEndDate": "2021-08-06T17:00:00+00:00",
     "collectionScreen": {
-      "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/gitnick.jpg",
-      "title": "charlesgitnick",
+      "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/glitch_creation.jpg",
+      "title": "GlitchCreation Technodrop",
       "subtitle": {
         "text": "Live Now",
         "textColour": "#FF003D"
@@ -16,16 +16,19 @@
         "textColour": "#FF003D"
       },
       "imageUrls": [
-        "https://ipfs.blockfrost.dev/ipfs/QmRmx4cQ2cZzjmq6jbhq45LmtJKGiQF47hVjYV3dyuhubo"
+        "https://ipfs.blockfrost.dev/ipfs/QmRtEcWLKdKe4ciotHybXEvZwS1wzEcPtYSiUJTDWqbZmh",
+        "https://ipfs.blockfrost.dev/ipfs/QmejKLEZWWcGXhjHz6zv4Y6kVp1SDRZabEGPjQwjQUkrcK",
+        "https://ipfs.blockfrost.dev/ipfs/QmPmnLqnv34NJhWmJRMZtqJQ6FTezHwHEbaSz7tKGVJrZF",
+        "https://ipfs.blockfrost.dev/ipfs/QmRLhgp17GGnHRJEvMBjTKZS4Jqw1DCtwdiPZvQZE4yyKL"
       ],
       "button": {
-        "text": "Details On Discord",
-        "url": "https://discord.gg/qMuwS2fH",
+        "text": "More Details",
+        "url": "https://glitchcreation.com/",
         "enabled": true
       },
       "buttonAfterCountdown": {
-        "text": "Buying Details On Discord",
-        "url": "https://discord.gg/qMuwS2fH",
+        "text": "Buying Details",
+        "url": "https://glitchcreation.com/",
         "enabled": true
       }
     }
