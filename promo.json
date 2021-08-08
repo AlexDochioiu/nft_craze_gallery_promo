@@ -1,40 +1,6 @@
 [
   {
     "layout": "COUNTDOWN",
-    "countdownEndDate": "2021-08-08T16:00:00+00:00",
-    "collectionScreen": {
-      "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/lucky_neko.png",
-      "title": "Adalotls Kitsune",
-      "subtitle": {
-        "text": "Live Now",
-        "textColour": "#FF003D"
-      }
-    },
-    "galleryScreen": {
-      "header": {
-        "text": "Live Now",
-        "textColour": "#FF003D"
-      },
-      "imageUrls": [
-        "https://ipfs.blockfrost.dev/ipfs/QmcjDjza8KsNT1VDhrQkxqXmR1RTyfyg6cWVek1VzR5pcC",
-        "https://ipfs.blockfrost.dev/ipfs/QmXWRcMqQbn4DLTesVcwX21kPtpKruAmkxG5TyQZgppY7c",
-        "https://ipfs.blockfrost.dev/ipfs/QmYXJN7oxKQpyXmtzEnC3d6Yw8yuGTborMAsnBXuoWj5hZ",
-        "https://ipfs.blockfrost.dev/ipfs/QmfHDkTS1AscSDVyCe6gLXCAQiXKqF3Vf5aBmh8Hgz7t2x"
-      ],
-      "button": {
-        "text": "More Details on Twitter",
-        "url": "https://twitter.com/adalotls/",
-        "enabled": true
-      },
-      "buttonAfterCountdown": {
-        "text": "Buying Details",
-        "url": "https://twitter.com/adalotls/",
-        "enabled": true
-      }
-    }
-  },
-  {
-    "layout": "COUNTDOWN",
     "countdownEndDate": "2021-08-06T17:00:00+00:00",
     "collectionScreen": {
       "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/glitch.gif",
