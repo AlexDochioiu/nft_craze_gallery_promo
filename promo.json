@@ -1,2 +1,34 @@
 [
+    {
+        "layout": "COUNTDOWN",
+        "countdownEndDate": "2021-08-11T20:00:00+00:00",
+        "collectionScreen": {
+          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adalotls.png",
+          "title": "Adalotls x ADAJam",
+          "subtitle": {
+            "text": "Live Now",
+            "textColour": "#FF003D"
+          }
+        },
+        "galleryScreen": {
+          "header": {
+            "text": "Live Now",
+            "textColour": "#FF003D"
+          },
+          "imageUrls": [
+            "https://ipfs.blockfrost.dev/ipfs/QmZd7mgcgrAshdrnDp6qMdQdodid2HTpXR1MxFeYGJVW3x",
+            "https://ipfs.blockfrost.dev/ipfs/QmdqzRmAJUWXr6vtnVRUojLCo9wixPz3CbRg9JU1nXRQfH"
+          ],
+          "button": {
+            "text": "More Details",
+            "url": "https://twitter.com/adalotls/",
+            "enabled": true
+          },
+          "buttonAfterCountdown": {
+            "text": "Buying Details",
+            "url": "https://twitter.com/adalotls/",
+            "enabled": true
+          }
+        }
+      }
 ]
