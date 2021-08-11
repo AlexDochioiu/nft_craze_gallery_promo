@@ -1,7 +1,7 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-08-11T20:00:00+00:00",
+        "countdownEndDate": "2021-08-11T22:00:00+00:00",
         "collectionScreen": {
           "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adalotls.png",
           "title": "Adalotls x ADAJam",
