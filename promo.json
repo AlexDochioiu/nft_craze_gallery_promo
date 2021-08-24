@@ -1,10 +1,10 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-08-11T22:00:00+00:00",
+        "countdownEndDate": "2021-08-25T18:00:00+00:00",
         "collectionScreen": {
           "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adalotls.png",
-          "title": "Adalotls x ADAJam",
+          "title": "BrownNFT - The Last Gunslinger",
           "subtitle": {
             "text": "Live Now",
             "textColour": "#FF003D"
@@ -16,8 +16,7 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://ipfs.blockfrost.dev/ipfs/QmZd7mgcgrAshdrnDp6qMdQdodid2HTpXR1MxFeYGJVW3x",
-            "https://ipfs.blockfrost.dev/ipfs/QmdqzRmAJUWXr6vtnVRUojLCo9wixPz3CbRg9JU1nXRQfH"
+            "https://ipfs.blockfrost.dev/ipfs/QmeXgRUwDVtd3bxPDmAnJdjh6fBk59axcRt8nb3xEvJ4Lk"
           ],
           "button": {
             "text": "More Details",
