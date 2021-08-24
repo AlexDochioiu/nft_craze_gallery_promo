@@ -20,12 +20,12 @@
           ],
           "button": {
             "text": "More Details",
-            "url": "https://twitter.com/adalotls/",
+            "url": "https://twitter.com/BrownNFT/",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://twitter.com/adalotls/",
+            "url": "https://twitter.com/BrownNFT/",
             "enabled": true
           }
         }
