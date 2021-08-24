@@ -1,7 +1,7 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-08-25T18:00:00+00:00",
+        "countdownEndDate": "2021-08-24T18:00:00+00:00",
         "collectionScreen": {
           "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adalotls.png",
           "title": "BrownNFT - The Last Gunslinger",
