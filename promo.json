@@ -16,9 +16,9 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
+            "https://ipfs.blockfrost.dev/ipfs/QmZMYkm3tWWpsdFwkjTseJ48hWrJ1gr4FxGhf1pdxXiVkj",
             "https://ipfs.blockfrost.dev/ipfs/QmWfpeLZ8MPp3PGiTbvWG6uqgrsk7BP4G2sob4P9LMiU8w",
-            "https://ipfs.blockfrost.dev/ipfs/QmPw2MqLFuE7W9czLLtmLSyapqHa5wynqiB3tYxnXDHGY6",
-            "https://ipfs.blockfrost.dev/ipfs/QmZMYkm3tWWpsdFwkjTseJ48hWrJ1gr4FxGhf1pdxXiVkj"
+            "https://ipfs.blockfrost.dev/ipfs/QmPw2MqLFuE7W9czLLtmLSyapqHa5wynqiB3tYxnXDHGY6"
           ],
           "button": {
             "text": "More Details",
