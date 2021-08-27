@@ -1,10 +1,10 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-08-24T18:00:00+00:00",
+        "countdownEndDate": "2021-08-28T19:00:00+00:00",
         "collectionScreen": {
-          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adalotls.png",
-          "title": "BrownNFT - The Last Gunslinger",
+          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adamon.jpg",
+          "title": "ADAMON",
           "subtitle": {
             "text": "Live Now",
             "textColour": "#FF003D"
@@ -16,16 +16,18 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://ipfs.blockfrost.dev/ipfs/QmeXgRUwDVtd3bxPDmAnJdjh6fBk59axcRt8nb3xEvJ4Lk"
+            "https://ipfs.blockfrost.dev/ipfs/QmWfpeLZ8MPp3PGiTbvWG6uqgrsk7BP4G2sob4P9LMiU8w",
+            "https://ipfs.blockfrost.dev/ipfs/QmPw2MqLFuE7W9czLLtmLSyapqHa5wynqiB3tYxnXDHGY6",
+            "https://ipfs.blockfrost.dev/ipfs/QmZMYkm3tWWpsdFwkjTseJ48hWrJ1gr4FxGhf1pdxXiVkj"
           ],
           "button": {
             "text": "More Details",
-            "url": "https://twitter.com/BrownNFT/",
+            "url": "https://twitter.com/ADAMONRPG",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://twitter.com/BrownNFT/status/1430230060238245888",
+            "url": "https://twitter.com/ADAMONRPG",
             "enabled": true
           }
         }
