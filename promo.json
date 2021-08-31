@@ -1,10 +1,10 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-08-28T19:00:00+00:00",
+        "countdownEndDate": "2021-08-31T16:00:00+00:00",
         "collectionScreen": {
-          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adamon.jpg",
-          "title": "ADAMON",
+          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/sacred.png",
+          "title": "SACRED Cyber Bloom",
           "subtitle": {
             "text": "Live Now",
             "textColour": "#FF003D"
@@ -16,18 +16,18 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://ipfs.blockfrost.dev/ipfs/QmZMYkm3tWWpsdFwkjTseJ48hWrJ1gr4FxGhf1pdxXiVkj",
-            "https://ipfs.blockfrost.dev/ipfs/QmWfpeLZ8MPp3PGiTbvWG6uqgrsk7BP4G2sob4P9LMiU8w",
-            "https://ipfs.blockfrost.dev/ipfs/QmPw2MqLFuE7W9czLLtmLSyapqHa5wynqiB3tYxnXDHGY6"
+            "https://ipfs.blockfrost.dev/ipfs/QmNWiQ9JJDbivKggnahSNRPobV4PoBeYfxML5xXRADSohC",
+            "https://ipfs.blockfrost.dev/ipfs/QmXzMQDrMBBUQuimFqTgXYK4sTQDnLPNUm2y14YwAEY1qc",
+            "https://ipfs.blockfrost.dev/ipfs/QmQh1NAYgAhhni86r5qpB7PfV5yCkiFGKVm6UKb4CUmRFZ"
           ],
           "button": {
             "text": "More Details",
-            "url": "https://twitter.com/ADAMONRPG",
+            "url": "https://twitter.com/laurenforsterr",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://twitter.com/ADAMONRPG",
+            "url": "https://twitter.com/laurenforsterr",
             "enabled": true
           }
         }
