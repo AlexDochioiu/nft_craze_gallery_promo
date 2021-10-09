@@ -1,10 +1,10 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-08-31T16:00:00+00:00",
+        "countdownEndDate": "2021-10-09T18:00:00+00:00",
         "collectionScreen": {
-          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/sacred.png",
-          "title": "SACRED Cyber Bloom",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1443385193230843906/P4aMri3A_400x400.jpg",
+          "title": "Cardano Mystics",
           "subtitle": {
             "text": "Live Now",
             "textColour": "#FF003D"
@@ -16,18 +16,18 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://ipfs.blockfrost.dev/ipfs/QmNWiQ9JJDbivKggnahSNRPobV4PoBeYfxML5xXRADSohC",
-            "https://ipfs.blockfrost.dev/ipfs/QmXzMQDrMBBUQuimFqTgXYK4sTQDnLPNUm2y14YwAEY1qc",
-            "https://ipfs.blockfrost.dev/ipfs/QmQh1NAYgAhhni86r5qpB7PfV5yCkiFGKVm6UKb4CUmRFZ"
+            "https://ipfs.blockfrost.dev/ipfs/QmUAU7Kbaff7coysQWmXtmRUr8ZEfcH7htfzJMWcqNaVju",
+            "https://ipfs.blockfrost.dev/ipfs/QmbPLWsC3nbVbLgxN3FDaZjoX1JzSQHriJ3aaMD88ZpiCV",
+            "https://ipfs.blockfrost.dev/ipfs/QmUYdeEvUm2wtuB2K6uzmdfY19LYQhanjZkr9aGPzLzBMX"
           ],
           "button": {
             "text": "More Details",
-            "url": "https://twitter.com/laurenforsterr",
+            "url": "https://twitter.com/CardanoMystics",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://twitter.com/laurenforsterr",
+            "url": "https://twitter.com/CardanoMystics",
             "enabled": true
           }
         }
