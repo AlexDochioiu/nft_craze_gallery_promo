@@ -1,10 +1,10 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-10-09T19:00:00+00:00",
+        "countdownEndDate": "2021-10-15T19:00:00+00:00",
         "collectionScreen": {
-          "imageUrl": "https://pbs.twimg.com/profile_images/1443385193230843906/P4aMri3A_400x400.jpg",
-          "title": "Cardano Mystics",
+          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/joseph_miranda.png",
+          "title": "Joseph Miranda We The People 006",
           "subtitle": {
             "text": "Live Now",
             "textColour": "#FF003D"
@@ -16,18 +16,18 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://ipfs.blockfrost.dev/ipfs/QmUAU7Kbaff7coysQWmXtmRUr8ZEfcH7htfzJMWcqNaVju",
-            "https://ipfs.blockfrost.dev/ipfs/QmZGWmV3ZHjZx9qoUV7gYR9b4B52uQw7UEkaNDM7KDZZ4C",
-            "https://ipfs.blockfrost.dev/ipfs/QmUYdeEvUm2wtuB2K6uzmdfY19LYQhanjZkr9aGPzLzBMX"
+            "https://ipfs.blockfrost.dev/ipfs/QmZse3AGKnJfb2LCUs2WCfrn5vrxQircoHcFgxxAruD6ug",
+            "https://ipfs.blockfrost.dev/ipfs/QmQDbVvFoas49uBHHXmb9p1BHCtsbXx4E8BpSPigwZ7x1h",
+            "https://ipfs.blockfrost.dev/ipfs/QmS4MxLSUQnScQQjkrUCfMHDUhxWthX3EKewqrZ2325jrL"
           ],
           "button": {
             "text": "More Details",
-            "url": "https://twitter.com/CardanoMystics",
+            "url": "https://discord.gg/xgHDMgzp",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://twitter.com/CardanoMystics",
+            "url": "https://discord.gg/xgHDMgzp",
             "enabled": true
           }
         }
