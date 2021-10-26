@@ -1,10 +1,10 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-10-15T16:00:00+00:00",
+        "countdownEndDate": "2021-10-30T19:00:00+00:00",
         "collectionScreen": {
-          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/joseph_miranda.png",
-          "title": "Joseph Miranda We The People 006",
+          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adamon.jpg",
+          "title": "Adamon - Halloween Special",
           "subtitle": {
             "text": "Live Now",
             "textColour": "#FF003D"
@@ -16,18 +16,18 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://ipfs.blockfrost.dev/ipfs/QmZse3AGKnJfb2LCUs2WCfrn5vrxQircoHcFgxxAruD6ug",
-            "https://ipfs.blockfrost.dev/ipfs/QmQDbVvFoas49uBHHXmb9p1BHCtsbXx4E8BpSPigwZ7x1h",
-            "https://ipfs.blockfrost.dev/ipfs/QmS4MxLSUQnScQQjkrUCfMHDUhxWthX3EKewqrZ2325jrL"
+            "https://cdn.discordapp.com/attachments/881062200909901864/901631972877672518/AdamonADAlex.jpg",
+            "https://pbs.twimg.com/media/FAzBvKfXoAUYnJU?format=jpg&name=small",
+            "https://cdn.discordapp.com/attachments/881062200909901864/899180214066741268/250.png"
           ],
           "button": {
             "text": "More Details",
-            "url": "https://discord.gg/xgHDMgzp",
+            "url": "https://discord.gg/FAC42YPF",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://discord.gg/xgHDMgzp",
+            "url": "https://discord.gg/FAC42YPF",
             "enabled": true
           }
         }
