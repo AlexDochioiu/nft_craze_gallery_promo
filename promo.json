@@ -1,10 +1,10 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-11-13T18:00:00+00:00",
+        "countdownEndDate": "2021-12-15T19:00:00+00:00",
         "collectionScreen": {
-          "imageUrl": "https://pbs.twimg.com/profile_images/1457694355343429640/hqdiu9Tu_400x400.jpg",
-          "title": "Lucky Lo-Fi",
+          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/refresh.png",
+          "title": "Jingle Fresh",
           "subtitle": {
             "text": "Live Now",
             "textColour": "#FF003D"
@@ -16,16 +16,16 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://cdn.discordapp.com/attachments/904844515578376272/906591196074356746/lofi.png"
+            "https://ipfs.blockfrost.dev/ipfs/QmZNxRdij59PL9qQuQsXncZ6FHoZusfzL8GqiVtSB4JXUu"
           ],
           "button": {
             "text": "More Details",
-            "url": "https://discord.gg/luckylizard",
+            "url": "https://discord.com/invite/Ya4XvQ2ey6",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://discord.gg/luckylizard",
+            "url": "https://discord.com/invite/Ya4XvQ2ey6",
             "enabled": true
           }
         }
