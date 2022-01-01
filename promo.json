@@ -22,12 +22,12 @@
           ],
           "button": {
             "text": "More Details",
-            "url": "https://twitter.com/like_gudim",
+            "url": "https://discord.gg/KDkcd9PN",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://twitter.com/like_gudim",
+            "url": "https://discord.gg/KDkcd9PN",
             "enabled": true
           }
         }
