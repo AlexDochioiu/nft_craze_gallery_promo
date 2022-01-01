@@ -1,10 +1,10 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-12-20T20:00:00+00:00",
+        "countdownEndDate": "2022-01-01T15:00:00+00:00",
         "collectionScreen": {
-          "imageUrl": "https://pbs.twimg.com/profile_images/1466279146145914887/_H7CnzGO_400x400.jpg",
-          "title": "Snadake",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1197799951780270080/Wy5EeMZl_400x400.jpg",
+          "title": "Anton Gudim Birds & Weapons",
           "subtitle": {
             "text": "Live Now",
             "textColour": "#FF003D"
@@ -16,51 +16,18 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://ipfs.blockfrost.dev/ipfs/QmeWZyzhJFLePjEofbFkhmkESvCgJypM2s82JK3cgEW9Rc",
-            "https://ipfs.blockfrost.dev/ipfs/QmXdpdmUCrDtKw4QtF632zPdV8opWEhEWbfZByV32RevH1",
-            "https://ipfs.blockfrost.dev/ipfs/QmSSAXmVaPj7jnJWmazxuHwV4EftxPogRBF1hxoCnArpvd"
+            "https://ipfs.blockfrost.dev/ipfs/QmNjpLukoDJdSbw4y9H22eMgD42TXopYTQgyFkKcPxqWH7",
+            "https://ipfs.blockfrost.dev/ipfs/QmR8FvxnUWgp2HFctnVeG5hq11qaYe8Mf7euBKNinWAxzv",
+            "https://ipfs.blockfrost.dev/ipfs/QmdQVD6yHPism7TtuJRTar5JnMAApG1A5KhsgGd34BEYUX"
           ],
           "button": {
             "text": "More Details",
-            "url": "https://twitter.com/c_snadake",
+            "url": "https://twitter.com/like_gudim",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://discord.gg/Qmmmg9afZ4",
-            "enabled": true
-          }
-        }
-      },
-      {
-        "layout": "COUNTDOWN",
-        "countdownEndDate": "2021-12-21T22:00:00+00:00",
-        "collectionScreen": {
-          "imageUrl": "https://pbs.twimg.com/profile_images/1468325135748931594/B6cUoSIs_400x400.jpg",
-          "title": "City Wok",
-          "subtitle": {
-            "text": "Live Now",
-            "textColour": "#FF003D"
-          }
-        },
-        "galleryScreen": {
-          "header": {
-            "text": "Live Now",
-            "textColour": "#FF003D"
-          },
-          "imageUrls": [
-            "https://pbs.twimg.com/media/FGvnMpyXwAUsFwv?format=jpg&name=large",
-            "https://pbs.twimg.com/media/FGpshchWQAMu3f1?format=jpg&name=large",
-            "https://pbs.twimg.com/media/FGpyzQOXsAkP94M?format=jpg&name=large"
-          ],
-          "button": {
-            "text": "More Details",
-            "url": "https://twitter.com/City_W0k",
-            "enabled": true
-          },
-          "buttonAfterCountdown": {
-            "text": "Buying Details",
-            "url": "https://twitter.com/City_W0k",
+            "url": "https://twitter.com/like_gudim",
             "enabled": true
           }
         }
