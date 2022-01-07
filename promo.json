@@ -16,16 +16,16 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://infura-ipfs.io/ipfs/QmQBRUDFwjp2NGbjTx649wxzqsairvsccZsiqP2cumQtfN"
+            "https://infura-ipfs.io/ipfs/QmVZaT9GRpVrJ9WcysbbbX7UNGo8nCKgitCCMLvYyw8BDW"
           ],
           "button": {
             "text": "More Details",
-            "url": "https://discord.gg/Ya4XvQ2ey6",
+            "url": "https://www.thiscrazylife.io/live-crazy-drops",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://discord.gg/Ya4XvQ2ey6",
+            "url": "https://www.thiscrazylife.io/live-crazy-drops",
             "enabled": true
           }
         }
