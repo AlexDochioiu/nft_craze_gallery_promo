@@ -1,10 +1,10 @@
 [
     {
         "layout": "COUNTDOWN",
-        "countdownEndDate": "2022-01-01T15:00:00+00:00",
+        "countdownEndDate": "2022-01-16T18:00:00+00:00",
         "collectionScreen": {
-          "imageUrl": "https://pbs.twimg.com/profile_images/1197799951780270080/Wy5EeMZl_400x400.jpg",
-          "title": "Anton Gudim Birds & Weapons",
+          "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/refresh.png",
+          "title": "The Refresher",
           "subtitle": {
             "text": "Live Now",
             "textColour": "#FF003D"
@@ -16,18 +16,16 @@
             "textColour": "#FF003D"
           },
           "imageUrls": [
-            "https://ipfs.blockfrost.dev/ipfs/QmNjpLukoDJdSbw4y9H22eMgD42TXopYTQgyFkKcPxqWH7",
-            "https://ipfs.blockfrost.dev/ipfs/QmR8FvxnUWgp2HFctnVeG5hq11qaYe8Mf7euBKNinWAxzv",
-            "https://ipfs.blockfrost.dev/ipfs/QmdQVD6yHPism7TtuJRTar5JnMAApG1A5KhsgGd34BEYUX"
+            "https://infura-ipfs.io/ipfs/QmQBRUDFwjp2NGbjTx649wxzqsairvsccZsiqP2cumQtfN"
           ],
           "button": {
             "text": "More Details",
-            "url": "https://discord.gg/KDkcd9PN",
+            "url": "https://discord.gg/Ya4XvQ2ey6",
             "enabled": true
           },
           "buttonAfterCountdown": {
             "text": "Buying Details",
-            "url": "https://discord.gg/KDkcd9PN",
+            "url": "https://discord.gg/Ya4XvQ2ey6",
             "enabled": true
           }
         }
