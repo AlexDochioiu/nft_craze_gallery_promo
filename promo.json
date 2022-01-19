@@ -1,39 +1,6 @@
 [
   {
     "layout": "COUNTDOWN",
-    "countdownEndDate": "2022-01-19T16:00:00+00:00",
-    "collectionScreen": {
-      "imageUrl": "https://pbs.twimg.com/profile_images/1479692197167468546/AcgU1oQE_400x400.jpg",
-      "title": "Fish Bowl Gang",
-      "subtitle": {
-        "text": "Live Now",
-        "textColour": "#FF003D"
-      }
-    },
-    "galleryScreen": {
-      "header": {
-        "text": "Live Now",
-        "textColour": "#FF003D"
-      },
-      "imageUrls": [
-        "https://cdn.discordapp.com/attachments/913681249648906260/929712943774441472/A4DEA778-1A47-4557-8635-7C115C74630D.png",
-        "https://cdn.discordapp.com/attachments/913681249648906260/922200291703672872/2214971E-AB7D-44E7-9C5F-610712FAC149.png",
-        "https://cdn.discordapp.com/attachments/913681249648906260/926771753676599356/564E298B-D3C2-4B8C-9E46-FF8BAEE9A70F.png"
-      ],
-      "button": {
-        "text": "More Details",
-        "url": "https://discord.gg/AzJgNCrTxv",
-        "enabled": true
-      },
-      "buttonAfterCountdown": {
-        "text": "Buying Details",
-        "url": "https://discord.gg/AzJgNCrTxv",
-        "enabled": true
-      }
-    }
-  },
-  {
-    "layout": "COUNTDOWN",
     "countdownEndDate": "2022-01-16T18:00:00+00:00",
     "collectionScreen": {
       "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/refresh.png",
