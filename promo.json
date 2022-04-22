@@ -1,10 +1,10 @@
 [
   {
     "layout": "COUNTDOWN",
-    "countdownEndDate": "2022-01-16T18:00:00+00:00",
+    "countdownEndDate": "2022-04-24T18:00:00+00:00",
     "collectionScreen": {
       "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/refresh.png",
-      "title": "The Refresher",
+      "title": "Gerolamo Dots",
       "subtitle": {
         "text": "Live Now",
         "textColour": "#FF003D"
@@ -16,7 +16,7 @@
         "textColour": "#FF003D"
       },
       "imageUrls": [
-        "https://infura-ipfs.io/ipfs/QmVZaT9GRpVrJ9WcysbbbX7UNGo8nCKgitCCMLvYyw8BDW"
+        "https://cdn.discordapp.com/attachments/887787786965508128/967035701998788668/FinishedGif.gif"
       ],
       "button": {
         "text": "More Details",
